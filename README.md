@@ -38,11 +38,11 @@ An exploration of the BERT model and its application to sentiment analysis tasks
 
 ### 8. CNN_LSTM_BILSTM_Trainval_results.ipynb
 
-This notebook covers the training and validation results of CNN, LSTM, and BiLSTM models for sentiment analysis.
+This notebook covers the training and validation results of CNN, LSTM, and BiLSTM models for sentiment analysis. Due to the large sizes of machine learning models, the models are not included in the git repository.
 
 ## Usage
 
-1. **Dataset Preparation:** Download the dataset from the provided link and place it in the same directory as the jupyter notebook files.
+1. **Dataset Preparation:** Download the dataset from the provided link and place it in the same directory as the Jupyter Notebook files.
 2. **Jupyter Notebooks:** Open and execute the desired notebook(s) for exploring the models and performing sentiment analysis tasks.
 3. **Model Experimentation:** Feel free to experiment, modify, or combine the models within the notebooks to improve sentiment analysis performance.
 

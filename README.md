@@ -4,7 +4,7 @@ This repository contains Jupyter notebooks implementing various deep learning mo
 
 ## Dataset
 
-The dataset used for this project can be found [here](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis). Please download and move the dataset files from the `data/` directory to the same directory as the jupyter notebooks files before running the notebooks.
+The dataset used for this project can be found [here](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis). Before running the notebooks, please download and move the dataset files from the `data/` directory to the same directory as the Jupyter Notebooks files. The dataset description mentions irrelevant as a neutral category, but we have considered it a separate class label.
 
 ## Notebooks
 

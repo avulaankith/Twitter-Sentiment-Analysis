@@ -56,7 +56,7 @@ This notebook covers the training and validation results of CNN, LSTM, and BiLST
 
 ## Contributors
 
-- [Avula Ankith](https://github.com/avulaankith) (@avulaankith)
+- Ankith Reddy Avula [@avulaankith](https://github.com/avulaankith)
 - Prem Kumar Rohan
 - Manogna Shashidhara
 

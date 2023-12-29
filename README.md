@@ -40,6 +40,10 @@ An exploration of the BERT model and its application to sentiment analysis tasks
 
 This notebook covers the training and validation results of CNN, LSTM, and BiLSTM models for sentiment analysis. Due to the large sizes of machine learning models, the models are not included in the git repository.
 
+## Note:
+
+The notebooks where the models have been tested have used models saved during training. Due to size limitations in GitHub the models are not uploaded. You may run the training notebooks to generate and save the models and use those models in the testing code.
+
 ## Usage
 
 1. **Dataset Preparation:** Download the dataset from the provided link and place it in the same directory as the Jupyter Notebook files.

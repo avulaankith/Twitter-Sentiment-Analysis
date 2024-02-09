@@ -50,6 +50,14 @@ The notebooks where the models have been tested have used models saved during tr
 2. **Jupyter Notebooks:** Open and execute the desired notebook(s) for exploring the models and performing sentiment analysis tasks.
 3. **Model Experimentation:** Feel free to experiment, modify, or combine the models within the notebooks to improve sentiment analysis performance.
 
+## Results and Evaluation
+
+Our comprehensive analysis across various models unveiled distinct performance metrics, highlighting the nuanced capabilities of each architecture in sentiment analysis on Twitter data. BERT-based models, due to their advanced understanding of context, outperformed traditional CNN, LSTM, and BiLSTM models. Specifically, the fusion models such as BERT-CNN, BERT-LSTM, and BERT-BiLSTM demonstrated superior accuracy, leveraging both the contextual awareness of BERT and the unique strengths of CNNs and LSTMs in text classification.
+
+For a more detailed comparison and analysis of the performance metrics, including accuracy, precision, recall, and F1 scores of each model, we encourage readers to refer to the individual Jupyter notebooks. These notebooks provide a comprehensive evaluation framework, including confusion matrices and classification reports, to support a deeper understanding of each model's effectiveness in sentiment classification.
+
+This section encapsulates the essence of our project's evaluation phase, providing a snapshot of our findings. For a granular view and technical details, diving into the notebooks is highly recommended.
+
 ## Requirements
 
 - Jupyter Notebook
